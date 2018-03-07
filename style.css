@@ -1,44 +1,44 @@
-#vert {
+#rectangle1{
   width:80%;
   height:35px;
   background-color:#2ECC71;
 }
-#bleu {
+#rectangle2{
   width:20%;
   height:35px;
   background-color: #2980B9;
 }
-#rouge {
+#rectangle3{
   width:34%;
   height:100px;
   background-color: #E74C3C;
 }
-#orangefonce {
+#rectangle4{
   width:33%;
   height:50px;
   background-color: #E67E22;
 }
-#gris {
+#rectangle5{
   width:33%;
   height:50px;
   background-color: #95A5A6;
 }
-#orangeclair {
+#rectangle6{
   width:22%;
   height:50px;
   background-color: #F39C12;
 }
-#bleuturquoise {
+#rectangle7{
   width:22%;
   height:50px;
   background-color: #16A085;
 }
-#orangetresfonce {
+#rectangle8{
   width:22%;
   height:50px;
   background-color: #D35400;
 }
-#bleufonce {
+#rectangle9{
   width:100%;
   height:135px;
   background-color: #2C3E50;
